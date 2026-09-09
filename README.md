@@ -24,6 +24,5 @@ El producto busca que el reparto sea más rápido, cómodo y parejo. Para lograr
 - Cortadora láser
 - Componentes electrónicos
 
-## Link del sitio web publicado
-
-https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/
+## Link del sitio web:
+https://github.com/milagrosselenenahirmanzano-dot/barajador
